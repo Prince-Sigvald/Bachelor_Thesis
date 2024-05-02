@@ -1,7 +1,4 @@
-13;12;1;2
-13;12;1;2
-13;12;1;2
-13;12;1;2
-13;12;1;2
-13;12;1;2
-13;12;1;2
+# Bachelor's Thesis Yan Gridling
+
+Development of an Electric Interface and an Add-On for the personal Robot Lio
+
