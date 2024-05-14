@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=DI_S_C_1 NewDesignator=DI_SC_1
+Change Component Designator: OldDesignator=DI_S_C_2 NewDesignator=DI_SC_2
+Change Component Designator: OldDesignator=DI_S_C_3 NewDesignator=DI_SC_3
+Change Component Designator: OldDesignator=DI_S_C_4 NewDesignator=DI_SC_4
+Change Component Designator: OldDesignator=DO-1 NewDesignator=DO_SC-1
+Change Component Designator: OldDesignator=DO-2 NewDesignator=DO_SC-2
+Change Component Designator: OldDesignator=DO-3 NewDesignator=DO_SC-3
+Change Component Designator: OldDesignator=DO-4 NewDesignator=DO_SC-4
+Change Component Designator: OldDesignator=S_C_3.3V NewDesignator=SC_3.3V
+Change Component Designator: OldDesignator=S_C_5V NewDesignator=SC_5V
+Change Component Designator: OldDesignator=S_C_12V NewDesignator=SC_12V
+Added Component: Designator=GND_SC(Spring_Contact_Pad_331031321515)
+Added Pin To Net: NetName=GND Pin=GND_SC-1
+Change Net Name : Old Net Name=NetDI_S_C_1_1 New Net Name=NetDI_SC_1_1
+Change Net Name : Old Net Name=NetDI_S_C_2_1 New Net Name=NetDI_SC_2_1
+Change Net Name : Old Net Name=NetDI_S_C_3_1 New Net Name=NetDI_SC_3_1
+Change Net Name : Old Net Name=NetDI_S_C_4_1 New Net Name=NetDI_SC_4_1
+Change Net Name : Old Net Name=NetDO-1_1 New Net Name=NetDO_SC-1_1
+Change Net Name : Old Net Name=NetDO-2_1 New Net Name=NetDO_SC-2_1
+Change Net Name : Old Net Name=NetDO-3_1 New Net Name=NetDO_SC-3_1
+Change Net Name : Old Net Name=NetDO-4_1 New Net Name=NetDO_SC-4_1
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component GND_SC Spring_Pad_331031321515

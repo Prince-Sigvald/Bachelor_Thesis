@@ -1,0 +1,55 @@
+Change component parameters: Designator = "USB_1" ("USB_1"); Footprint = "GCT_USB1135-15-9-L-B_REVA1"; UniqueID = "\BMYBICQC" ("\BMYBICQC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/GCT/USB1135-15-9-L-B?qs=KUoIvG%2F9IlaGvSU06AX2Fg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "USB1135-15-9-L-B_REVA1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_1_out(GCT_USB1086-GF-B_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/GCT/USB1086-GF-B?qs=KUoIvG%2F9Ila%2FOuxyuagefg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4594019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1086-GF-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB1086-GF-B/Global%20Connector%20Technology/view-part/4594019/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_2_out(GCT_USB1086-GF-B_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/GCT/USB1086-GF-B?qs=KUoIvG%2F9Ila%2FOuxyuagefg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4594019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1086-GF-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB1086-GF-B/Global%20Connector%20Technology/view-part/4594019/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetUSB_1_1 Pin=USB_1_out-1
+Added Pin To Net: NetName=NetUSB_1_2 Pin=USB_1_out-2
+Added Pin To Net: NetName=NetUSB_1_3 Pin=USB_1_out-3
+Added Pin To Net: NetName=GND Pin=USB_1_out-4
+Added Pin To Net: NetName=NetUSB_1_5 Pin=USB_1_out-5
+Added Pin To Net: NetName=NetUSB_1_6 Pin=USB_1_out-6
+Added Pin To Net: NetName=GND Pin=USB_1_out-7
+Added Pin To Net: NetName=NetUSB_1_8 Pin=USB_1_out-8
+Added Pin To Net: NetName=NetUSB_1_9 Pin=USB_1_out-9
+Added Pin To Net: NetName=GND Pin=USB_1_out-S1
+Added Pin To Net: NetName=GND Pin=USB_1_out-S2
+Added Pin To Net: NetName=NetUSB_2_1 Pin=USB_2_out-1
+Added Pin To Net: NetName=NetUSB_2_2 Pin=USB_2_out-2
+Added Pin To Net: NetName=NetUSB_2_3 Pin=USB_2_out-3
+Added Pin To Net: NetName=GND Pin=USB_2_out-4
+Added Pin To Net: NetName=NetUSB_2_5 Pin=USB_2_out-5
+Added Pin To Net: NetName=NetUSB_2_6 Pin=USB_2_out-6
+Added Pin To Net: NetName=GND Pin=USB_2_out-7
+Added Pin To Net: NetName=NetUSB_2_8 Pin=USB_2_out-8
+Added Pin To Net: NetName=NetUSB_2_9 Pin=USB_2_out-9
+Added Pin To Net: NetName=GND Pin=USB_2_out-S1
+Added Pin To Net: NetName=GND Pin=USB_2_out-S2
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component USB_1_out USB1086-GF-B_REVA
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component USB_2_out USB1086-GF-B_REVA

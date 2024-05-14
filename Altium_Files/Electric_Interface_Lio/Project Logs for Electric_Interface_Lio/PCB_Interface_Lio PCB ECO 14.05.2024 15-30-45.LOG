@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=USB_1 NewDesignator=USB_1_out
+Change Component Designator: OldDesignator=USB_2 NewDesignator=USB_2_out
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component USB_1_out USB1086-GF-B_REVA
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component USB_2_out USB1086-GF-B_REVA

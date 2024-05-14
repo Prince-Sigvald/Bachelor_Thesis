@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Spring_Contact_3.3V NewDesignator=S_C_3.3V
+Change Component Designator: OldDesignator=Spring_Contact_5V NewDesignator=S_C_5V
+Change Component Designator: OldDesignator=Spring_Contact_12V NewDesignator=S_C_12V
+Change Component Designator: OldDesignator=Voltage_Regulation_3.3V_out NewDesignator=V_R_3.3V_out
+Change Component Designator: OldDesignator=Voltage_Regulation_5V_out NewDesignator=V_R_5V_out
+Change Component Designator: OldDesignator=Voltage_Regulation_12V_out NewDesignator=V_R_12V_out

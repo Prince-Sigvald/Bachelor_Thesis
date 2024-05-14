@@ -1,0 +1,837 @@
+Added Component: Designator=C1(C_1210_A)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10uF_1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-7004-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_1210_A)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10uF_1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-7004-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10000pF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10000pF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(HA1C470WR)
+Add component (AddParameter): Name = "Part ID"; Value = "C_47uF_ALUM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCE4190TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C_1210_A)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10uF_1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-7004-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C_1210_A)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10uF_1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-7004-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10000pF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10000pF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(HA1C470WR)
+Add component (AddParameter): Name = "Part ID"; Value = "C_47uF_ALUM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCE4190TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C_1210_A)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10uF_1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-7004-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C_1210_A)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10uF_1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-7004-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10000pF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_10000pF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(0603)
+Add component (AddParameter): Name = "Part ID"; Value = "C_100nF_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1012-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempKoeff"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20%/+80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C24(HA1C470WR)
+Add component (AddParameter): Name = "Part ID"; Value = "C_47uF_ALUM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCE4190TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=DI_Spring_Pad_1(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DI_Spring_Pad_2(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DI_Spring_Pad_3(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DI_Spring_Pad_4(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-1(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-2(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-3(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-4(Spring_Contact_Pad_331031321515)
+Added Component: Designator=Header_1(Header1x8_254)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "ArduinoConnector_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5321-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Header_2(Header1x8_254)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "ArduinoConnector_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5321-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Input_Lio(PHOENIX_1814906)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-ptsm-05-8-hh-25-thr-wh-r44-1814906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Phoenix Contact'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1814906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(SRP1040VA-6R8M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.bourns.com/docs/product-datasheets/srp1040va.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(SRP1040VA-6R8M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.bourns.com/docs/product-datasheets/srp1040va.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L3(SRP1040VA-6R8M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.bourns.com/docs/product-datasheets/srp1040va.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Output_Lio(PHOENIX_1814906)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-ptsm-05-8-hh-25-thr-wh-r44-1814906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Phoenix Contact'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1814906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Powerrail_Connector(OSTTE020104)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.on-shore.com/wp-content/uploads/OSTTEXX0104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "Terminal_2Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1pc (CHF)"; Value = "0.69"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2740-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_56k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-56.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_47k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106064CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_6k8_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A126384CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_2k2_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-2.20KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_56k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-56.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_22k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-22.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_5k6_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A126380CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_1k5_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0805FTD1K50CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_56k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-56.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_100k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_5k6_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A126380CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_1k5_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0805FTD1K50CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R21(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0805)
+Add component (AddParameter): Name = "Part ID"; Value = "R_330k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs (CHF)"; Value = "0.042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-330KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R(RESC3216X125N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/Bel-Fuse/0ZCJ0035AF2E?qs=SRYZG9HaIQ1eeV%2FMwyYkuw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0ZCJ0035AF2E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0ZCJ0035AF2E/Bel%20Fuse%20Inc./view-part/703881/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Spring_Contact_3.3V(Spring_Contact_Pad_331031321515)
+Added Component: Designator=Spring_Contact_5V(Spring_Contact_Pad_331031321515)
+Added Component: Designator=Spring_Contact_12V(Spring_Contact_Pad_331031321515)
+Added Component: Designator=Supply_P_Rob_3_GPIO(PHOENIX_1814867)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1814867/Phoenix+Contact/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-ptsm-05-4-hh-25-thr-wh-r32-1814867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1814867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1814867/Phoenix+Contact/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(TRANS_TSM2309CXRFG)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/Taiwan-Semiconductor/TSM2306CX-RFG?qs=5aG0NVq1C4zLOxsYQl7nrA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Taiwan Semiconductor Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM2309CXRFG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T2(TRANS_TSM2309CXRFG)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/Taiwan-Semiconductor/TSM2306CX-RFG?qs=5aG0NVq1C4zLOxsYQl7nrA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Taiwan Semiconductor Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM2309CXRFG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T3(TRANS_TSM2309CXRFG)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/Taiwan-Semiconductor/TSM2306CX-RFG?qs=5aG0NVq1C4zLOxsYQl7nrA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Taiwan Semiconductor Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM2309CXRFG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T4(TRANS_TSM2309CXRFG)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.ch/ProductDetail/Taiwan-Semiconductor/TSM2306CX-RFG?qs=5aG0NVq1C4zLOxsYQl7nrA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Taiwan Semiconductor Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM2309CXRFG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_Interface_Out_1(GCT_USB1086-GF-B_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4594019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1086-GF-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB1086-GF-B/Global%20Connector%20Technology/view-part/4594019/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_Interface_Out_2(GCT_USB1086-GF-B_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4594019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1086-GF-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB1086-GF-B/Global%20Connector%20Technology/view-part/4594019/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_Lio_Interface_1(GCT_USB1135-15-9-L-B_REVA1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1135-15-9-L-B_REVA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_Lio_Interface_2(GCT_USB1135-15-9-L-B_REVA1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1135-15-9-L-B_REVA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Voltage_Regulation_3.3V_out(SOT5X3-8_DRL_TEX)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://eu.mouser.com/ProductDetail/Texas-Instruments/TPS62933ODRLR?qs=By6Nw2ByBD3VuSv7z7GudQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Voltage_Regulation_5V_out(SOT5X3-8_DRL_TEX)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://eu.mouser.com/ProductDetail/Texas-Instruments/TPS62933ODRLR?qs=By6Nw2ByBD3VuSv7z7GudQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Voltage_Regulation_12V_out(SOT5X3-8_DRL_TEX)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://eu.mouser.com/ProductDetail/Texas-Instruments/TPS62933ODRLR?qs=By6Nw2ByBD3VuSv7z7GudQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3VDC Pin=C15-1
+Added Pin To Net: NetName=3.3VDC Pin=C16-1
+Added Pin To Net: NetName=3.3VDC Pin=Header_1-5
+Added Pin To Net: NetName=3.3VDC Pin=Header_2-5
+Added Pin To Net: NetName=3.3VDC Pin=L2-2
+Added Pin To Net: NetName=3.3VDC Pin=R8-2
+Added Pin To Net: NetName=3.3VDC Pin=Spring_Contact_3.3V-1
+Added Net: Name=3.3VDC
+Added Pin To Net: NetName=5VDC Pin=C7-1
+Added Pin To Net: NetName=5VDC Pin=C8-1
+Added Pin To Net: NetName=5VDC Pin=Header_1-6
+Added Pin To Net: NetName=5VDC Pin=Header_2-6
+Added Pin To Net: NetName=5VDC Pin=L1-2
+Added Pin To Net: NetName=5VDC Pin=R3-2
+Added Pin To Net: NetName=5VDC Pin=Spring_Contact_5V-1
+Added Net: Name=5VDC
+Added Pin To Net: NetName=12VDC Pin=C23-1
+Added Pin To Net: NetName=12VDC Pin=C24-1
+Added Pin To Net: NetName=12VDC Pin=Header_1-7
+Added Pin To Net: NetName=12VDC Pin=Header_2-7
+Added Pin To Net: NetName=12VDC Pin=L3-2
+Added Pin To Net: NetName=12VDC Pin=R13-2
+Added Pin To Net: NetName=12VDC Pin=Spring_Contact_12V-1
+Added Net: Name=12VDC
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=Header_1-8
+Added Pin To Net: NetName=GND Pin=Header_2-8
+Added Pin To Net: NetName=GND Pin=Powerrail_Connector-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=GND Pin=Supply_P_Rob_3_GPIO-01
+Added Pin To Net: NetName=GND Pin=Supply_P_Rob_3_GPIO-02
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=GND Pin=T3-2
+Added Pin To Net: NetName=GND Pin=T4-2
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_1-4
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_1-7
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_1-S1
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_1-S2
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_2-4
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_2-7
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_2-S1
+Added Pin To Net: NetName=GND Pin=USB_Interface_Out_2-S2
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_1-4
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_1-7
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_1-S1
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_1-S2
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_2-4
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_2-7
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_2-S1
+Added Pin To Net: NetName=GND Pin=USB_Lio_Interface_2-S2
+Added Pin To Net: NetName=GND Pin=Voltage_Regulation_3.3V_out-4
+Added Pin To Net: NetName=GND Pin=Voltage_Regulation_5V_out-4
+Added Pin To Net: NetName=GND Pin=Voltage_Regulation_12V_out-1
+Added Pin To Net: NetName=GND Pin=Voltage_Regulation_12V_out-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=NetC4_1 Pin=Voltage_Regulation_5V_out-7
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=Voltage_Regulation_5V_out-6
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=L1-1
+Added Pin To Net: NetName=NetC6_2 Pin=Voltage_Regulation_5V_out-5
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=C13-1
+Added Pin To Net: NetName=NetC12_1 Pin=Voltage_Regulation_3.3V_out-7
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=Voltage_Regulation_3.3V_out-6
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=L2-1
+Added Pin To Net: NetName=NetC14_2 Pin=Voltage_Regulation_3.3V_out-5
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=C21-1
+Added Pin To Net: NetName=NetC20_1 Pin=Voltage_Regulation_12V_out-7
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=Voltage_Regulation_12V_out-6
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=L3-1
+Added Pin To Net: NetName=NetC22_2 Pin=Voltage_Regulation_12V_out-5
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetDI_Spring_Pad_1_1 Pin=DI_Spring_Pad_1-1
+Added Pin To Net: NetName=NetDI_Spring_Pad_1_1 Pin=Header_2-1
+Added Pin To Net: NetName=NetDI_Spring_Pad_1_1 Pin=Input_Lio-01
+Added Net: Name=NetDI_Spring_Pad_1_1
+Added Pin To Net: NetName=NetDI_Spring_Pad_2_1 Pin=DI_Spring_Pad_2-1
+Added Pin To Net: NetName=NetDI_Spring_Pad_2_1 Pin=Header_2-2
+Added Pin To Net: NetName=NetDI_Spring_Pad_2_1 Pin=Input_Lio-02
+Added Net: Name=NetDI_Spring_Pad_2_1
+Added Pin To Net: NetName=NetDI_Spring_Pad_3_1 Pin=DI_Spring_Pad_3-1
+Added Pin To Net: NetName=NetDI_Spring_Pad_3_1 Pin=Header_2-3
+Added Pin To Net: NetName=NetDI_Spring_Pad_3_1 Pin=Input_Lio-03
+Added Net: Name=NetDI_Spring_Pad_3_1
+Added Pin To Net: NetName=NetDI_Spring_Pad_4_1 Pin=DI_Spring_Pad_4-1
+Added Pin To Net: NetName=NetDI_Spring_Pad_4_1 Pin=Header_2-4
+Added Pin To Net: NetName=NetDI_Spring_Pad_4_1 Pin=Input_Lio-04
+Added Net: Name=NetDI_Spring_Pad_4_1
+Added Pin To Net: NetName=NetDO-1_1 Pin=DO-1-1
+Added Pin To Net: NetName=NetDO-1_1 Pin=Header_1-1
+Added Pin To Net: NetName=NetDO-1_1 Pin=T1-3
+Added Net: Name=NetDO-1_1
+Added Pin To Net: NetName=NetDO-2_1 Pin=DO-2-1
+Added Pin To Net: NetName=NetDO-2_1 Pin=Header_1-2
+Added Pin To Net: NetName=NetDO-2_1 Pin=T2-3
+Added Net: Name=NetDO-2_1
+Added Pin To Net: NetName=NetDO-3_1 Pin=DO-3-1
+Added Pin To Net: NetName=NetDO-3_1 Pin=Header_1-4
+Added Pin To Net: NetName=NetDO-3_1 Pin=T4-3
+Added Net: Name=NetDO-3_1
+Added Pin To Net: NetName=NetDO-4_1 Pin=DO-4-1
+Added Pin To Net: NetName=NetDO-4_1 Pin=Header_1-3
+Added Pin To Net: NetName=NetDO-4_1 Pin=T3-3
+Added Net: Name=NetDO-4_1
+Added Pin To Net: NetName=NetOutput_Lio_01 Pin=Output_Lio-01
+Added Pin To Net: NetName=NetOutput_Lio_01 Pin=R16-1
+Added Net: Name=NetOutput_Lio_01
+Added Pin To Net: NetName=NetOutput_Lio_02 Pin=Output_Lio-02
+Added Pin To Net: NetName=NetOutput_Lio_02 Pin=R18-2
+Added Net: Name=NetOutput_Lio_02
+Added Pin To Net: NetName=NetOutput_Lio_03 Pin=Output_Lio-03
+Added Pin To Net: NetName=NetOutput_Lio_03 Pin=R20-1
+Added Net: Name=NetOutput_Lio_03
+Added Pin To Net: NetName=NetOutput_Lio_04 Pin=Output_Lio-04
+Added Pin To Net: NetName=NetOutput_Lio_04 Pin=R22-2
+Added Net: Name=NetOutput_Lio_04
+Added Pin To Net: NetName=NetOutput_Lio_05 Pin=Output_Lio-05
+Added Pin To Net: NetName=NetOutput_Lio_05 Pin=R1-1
+Added Net: Name=NetOutput_Lio_05
+Added Pin To Net: NetName=NetOutput_Lio_06 Pin=Output_Lio-06
+Added Pin To Net: NetName=NetOutput_Lio_06 Pin=R6-1
+Added Net: Name=NetOutput_Lio_06
+Added Pin To Net: NetName=NetOutput_Lio_07 Pin=Output_Lio-07
+Added Pin To Net: NetName=NetOutput_Lio_07 Pin=R11-1
+Added Net: Name=NetOutput_Lio_07
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=Voltage_Regulation_5V_out-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR3_1 Pin=Voltage_Regulation_5V_out-8
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Pin To Net: NetName=NetR6_2 Pin=Voltage_Regulation_3.3V_out-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Pin To Net: NetName=NetR8_1 Pin=Voltage_Regulation_3.3V_out-8
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-1
+Added Pin To Net: NetName=NetR11_2 Pin=Voltage_Regulation_12V_out-2
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-2
+Added Pin To Net: NetName=NetR13_1 Pin=Voltage_Regulation_12V_out-8
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R17-2
+Added Pin To Net: NetName=NetR16_2 Pin=T1-1
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=R19-1
+Added Pin To Net: NetName=NetR18_1 Pin=T2-1
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=R21-2
+Added Pin To Net: NetName=NetR20_2 Pin=T3-1
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=R23-1
+Added Pin To Net: NetName=NetR22_1 Pin=T4-1
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR_2 Pin=R-2
+Added Pin To Net: NetName=NetR_2 Pin=Supply_P_Rob_3_GPIO-03
+Added Pin To Net: NetName=NetR_2 Pin=Supply_P_Rob_3_GPIO-04
+Added Net: Name=NetR_2
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_1 Pin=USB_Interface_Out_1-1
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_1 Pin=USB_Lio_Interface_1-1
+Added Net: Name=NetUSB_Interface_Out_1_1
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_2 Pin=USB_Interface_Out_1-2
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_2 Pin=USB_Lio_Interface_1-2
+Added Net: Name=NetUSB_Interface_Out_1_2
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_3 Pin=USB_Interface_Out_1-3
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_3 Pin=USB_Lio_Interface_1-3
+Added Net: Name=NetUSB_Interface_Out_1_3
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_5 Pin=USB_Interface_Out_1-5
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_5 Pin=USB_Lio_Interface_1-5
+Added Net: Name=NetUSB_Interface_Out_1_5
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_6 Pin=USB_Interface_Out_1-6
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_6 Pin=USB_Lio_Interface_1-6
+Added Net: Name=NetUSB_Interface_Out_1_6
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_8 Pin=USB_Interface_Out_1-8
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_8 Pin=USB_Lio_Interface_1-8
+Added Net: Name=NetUSB_Interface_Out_1_8
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_9 Pin=USB_Interface_Out_1-9
+Added Pin To Net: NetName=NetUSB_Interface_Out_1_9 Pin=USB_Lio_Interface_1-9
+Added Net: Name=NetUSB_Interface_Out_1_9
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_1 Pin=USB_Interface_Out_2-1
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_1 Pin=USB_Lio_Interface_2-1
+Added Net: Name=NetUSB_Interface_Out_2_1
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_2 Pin=USB_Interface_Out_2-2
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_2 Pin=USB_Lio_Interface_2-2
+Added Net: Name=NetUSB_Interface_Out_2_2
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_3 Pin=USB_Interface_Out_2-3
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_3 Pin=USB_Lio_Interface_2-3
+Added Net: Name=NetUSB_Interface_Out_2_3
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_5 Pin=USB_Interface_Out_2-5
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_5 Pin=USB_Lio_Interface_2-5
+Added Net: Name=NetUSB_Interface_Out_2_5
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_6 Pin=USB_Interface_Out_2-6
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_6 Pin=USB_Lio_Interface_2-6
+Added Net: Name=NetUSB_Interface_Out_2_6
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_8 Pin=USB_Interface_Out_2-8
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_8 Pin=USB_Lio_Interface_2-8
+Added Net: Name=NetUSB_Interface_Out_2_8
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_9 Pin=USB_Interface_Out_2-9
+Added Pin To Net: NetName=NetUSB_Interface_Out_2_9 Pin=USB_Lio_Interface_2-9
+Added Net: Name=NetUSB_Interface_Out_2_9
+Added Pin To Net: NetName=V_Batterie Pin=C1-1
+Added Pin To Net: NetName=V_Batterie Pin=C2-1
+Added Pin To Net: NetName=V_Batterie Pin=C3-1
+Added Pin To Net: NetName=V_Batterie Pin=C9-1
+Added Pin To Net: NetName=V_Batterie Pin=C10-1
+Added Pin To Net: NetName=V_Batterie Pin=C11-1
+Added Pin To Net: NetName=V_Batterie Pin=C17-1
+Added Pin To Net: NetName=V_Batterie Pin=C18-1
+Added Pin To Net: NetName=V_Batterie Pin=C19-1
+Added Pin To Net: NetName=V_Batterie Pin=Powerrail_Connector-1
+Added Pin To Net: NetName=V_Batterie Pin=R-1
+Added Pin To Net: NetName=V_Batterie Pin=Voltage_Regulation_3.3V_out-3
+Added Pin To Net: NetName=V_Batterie Pin=Voltage_Regulation_5V_out-3
+Added Pin To Net: NetName=V_Batterie Pin=Voltage_Regulation_12V_out-3
+Added Net: Name=V_Batterie
+Added Class: Name=Schematic_Interface_Lio_with_IC

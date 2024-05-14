@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=DI_Spring_Pad_1 NewDesignator=DI_S_C_1
+Change Component Designator: OldDesignator=DI_Spring_Pad_2 NewDesignator=DI_S_C_2
+Change Component Designator: OldDesignator=DI_Spring_Pad_3 NewDesignator=DI_S_C_3
+Change Component Designator: OldDesignator=DI_Spring_Pad_4 NewDesignator=DI_S_C_4
+Change Net Name : Old Net Name=NetDI_Spring_Pad_1_1 New Net Name=NetDI_S_C_1_1
+Change Net Name : Old Net Name=NetDI_Spring_Pad_2_1 New Net Name=NetDI_S_C_2_1
+Change Net Name : Old Net Name=NetDI_Spring_Pad_3_1 New Net Name=NetDI_S_C_3_1
+Change Net Name : Old Net Name=NetDI_Spring_Pad_4_1 New Net Name=NetDI_S_C_4_1
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component DO-3 Spring_Pad_331031321515

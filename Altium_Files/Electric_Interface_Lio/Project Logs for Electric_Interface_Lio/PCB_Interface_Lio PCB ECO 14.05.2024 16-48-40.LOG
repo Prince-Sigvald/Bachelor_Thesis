@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Header_1 NewDesignator=H1
+Change Component Designator: OldDesignator=Header_2 NewDesignator=H2
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component USB_1 USB1135-15-9-L-B_REVA1
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component USB_2 USB1135-15-9-L-B_REVA1
