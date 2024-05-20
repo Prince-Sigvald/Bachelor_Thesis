@@ -1,0 +1,15 @@
+Change Component Description : Designator=Fuse Old Description=1206 SMT PPTC New Description=1206 SMT PPTC | 0.35 Ih | 30V
+Change Component Description : Designator=Supply_P_Rob_3_GPIO Old Description=Pluggable Header 2.5mm 20AWG 160V 6A 4 Position COMBICON PTSM Series New Description=Pluggable Header 2.5mm 20AWG 160V 6A 4 Position COMBICON PTSM Series | Phoenix Contact 1814867
+Added Component: Designator=D1(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "4.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "D_SMAJ30CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs"; Value = "0.357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMAJ30CALFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=V_Batterie Pin=D1-K
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component D1 SMAJ30CA
