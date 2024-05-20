@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=3.3VDC Pin=SC_3.3V-1
+Removed Pin From Net: NetName=5VDC Pin=SC_5V-1
+Removed Pin From Net: NetName=12VDC Pin=SC_12V-1
+Removed Pin From Net: NetName=GND Pin=USB_1-4
+Removed Pin From Net: NetName=GND Pin=USB_1-7
+Removed Pin From Net: NetName=GND Pin=USB_1-S1
+Removed Pin From Net: NetName=GND Pin=USB_1-S2
+Removed Pin From Net: NetName=GND Pin=USB_1_out-4
+Removed Pin From Net: NetName=GND Pin=USB_1_out-7
+Removed Pin From Net: NetName=GND Pin=USB_1_out-S1
+Removed Pin From Net: NetName=GND Pin=USB_1_out-S2
+Removed Pin From Net: NetName=GND Pin=USB_2-4
+Removed Pin From Net: NetName=GND Pin=USB_2-7
+Removed Pin From Net: NetName=GND Pin=USB_2-S1
+Removed Pin From Net: NetName=GND Pin=USB_2-S2
+Removed Pin From Net: NetName=GND Pin=USB_2_out-4
+Removed Pin From Net: NetName=GND Pin=USB_2_out-7
+Removed Pin From Net: NetName=GND Pin=USB_2_out-S1
+Removed Pin From Net: NetName=GND Pin=USB_2_out-S2
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DI_SC_1
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DI_SC_2
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DI_SC_3
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DI_SC_4
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DO_SC-1
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DO_SC-2
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DO_SC-3
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=DO_SC-4
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=SC_3.3V
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=SC_5V
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=SC_12V
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=USB_1_out
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=USB_1
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=USB_2_out
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=USB_2
+Added Component: Designator=Spring_Connector_1(009155003541006)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/009155003541006/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/40/RightAngle2.5mmPitch_9155-500-845733.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/009155003541006?qs=aTQdX%252BfNGTp5QwJ6nid1rw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Spring_Connector_2(009155003541006)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/009155003541006/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/40/RightAngle2.5mmPitch_9155-500-845733.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/009155003541006?qs=aTQdX%252BfNGTp5QwJ6nid1rw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Spring_Connector_3(009155003541006)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/009155003541006/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/40/RightAngle2.5mmPitch_9155-500-845733.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/009155003541006?qs=aTQdX%252BfNGTp5QwJ6nid1rw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Spring_Connector_4(009155003541006)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/009155003541006/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/40/RightAngle2.5mmPitch_9155-500-845733.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-009155003541006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/009155003541006?qs=aTQdX%252BfNGTp5QwJ6nid1rw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Spring_Connector_1-1
+Added Pin To Net: NetName=5VDC Pin=Spring_Connector_1-2
+Added Pin To Net: NetName=GND Pin=Spring_Connector_1-4
+Added Pin To Net: NetName=GND Pin=Spring_Connector_1-5
+Added Pin To Net: NetName=GND Pin=Spring_Connector_2-4
+Added Pin To Net: NetName=GND Pin=Spring_Connector_2-5
+Added Pin To Net: NetName=3.3VDC Pin=Spring_Connector_3-1
+Added Pin To Net: NetName=GND Pin=Spring_Connector_3-4
+Added Pin To Net: NetName=GND Pin=Spring_Connector_3-5
+Added Pin To Net: NetName=12VDC Pin=Spring_Connector_4-3
+Added Pin To Net: NetName=GND Pin=Spring_Connector_4-4
+Added Pin To Net: NetName=GND Pin=Spring_Connector_4-5
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=Spring_Connector_2-3
+Added Pin To Net: NetName=NetH1_1 Pin=T1-3
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=Spring_Connector_2-2
+Added Pin To Net: NetName=NetH1_2 Pin=T2-3
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=Spring_Connector_2-1
+Added Pin To Net: NetName=NetH1_3 Pin=T3-3
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=Spring_Connector_1-3
+Added Pin To Net: NetName=NetH1_4 Pin=T4-3
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=NetH2_1 Pin=Input_Lio-01
+Added Pin To Net: NetName=NetH2_1 Pin=Spring_Connector_4-2
+Added Net: Name=NetH2_1
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=NetH2_2 Pin=Input_Lio-02
+Added Pin To Net: NetName=NetH2_2 Pin=Spring_Connector_4-1
+Added Net: Name=NetH2_2
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=Input_Lio-03
+Added Pin To Net: NetName=NetH2_3 Pin=Spring_Connector_3-3
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=NetH2_4 Pin=Input_Lio-04
+Added Pin To Net: NetName=NetH2_4 Pin=Spring_Connector_3-2
+Added Net: Name=NetH2_4
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component Spring_Connector_1 009155003541006
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component Spring_Connector_2 009155003541006
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component Spring_Connector_3 009155003541006
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component Spring_Connector_4 009155003541006

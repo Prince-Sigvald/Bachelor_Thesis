@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=GND_SC-1
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=GND_SC
