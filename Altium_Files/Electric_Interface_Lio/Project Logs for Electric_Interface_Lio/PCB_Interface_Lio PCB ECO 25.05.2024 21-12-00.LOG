@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3.3VDC Pin=H1-5
+Removed Pin From Net: NetName=5VDC Pin=H1-6
+Removed Pin From Net: NetName=12VDC Pin=H1-7
+Removed Pin From Net: NetName=3.3VDC Pin=H2-5
+Removed Pin From Net: NetName=12VDC Pin=H2-7
+Removed Pin From Net: NetName=NetOutput_Lio_07 Pin=R1-1
+Removed Pin From Net: NetName=NetOutput_Lio_05 Pin=R11-1
+Add Pin To Net: Unknown Pin: Pin EC1-1
+Add Pin To Net: Unknown Pin: Pin EC2-1
+Add Pin To Net: Unknown Pin: Pin EC3-1
+Add Pin To Net: Unknown Pin: Pin EC4-1
+Added Pin To Net: NetName=12VDC Pin=H1-5
+Added Pin To Net: NetName=3.3VDC Pin=H1-6
+Added Pin To Net: NetName=5VDC Pin=H1-7
+Added Pin To Net: NetName=12VDC Pin=H2-5
+Added Pin To Net: NetName=3.3VDC Pin=H2-7
+Added Pin To Net: NetName=NetOutput_Lio_05 Pin=R1-1
+Added Pin To Net: NetName=NetOutput_Lio_07 Pin=R11-1

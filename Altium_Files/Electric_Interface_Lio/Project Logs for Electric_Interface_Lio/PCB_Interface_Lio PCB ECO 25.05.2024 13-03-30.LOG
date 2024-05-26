@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=V_Batterie Pin=Powerrail_Connector-1
+Removed Pin From Net: NetName=GND Pin=Powerrail_Connector-2
+Removed Member From Class: ClassName=Schematic_Interface_Lio_with_IC Member=Powerrail_Connector
+Added Component: Designator=BC(2-1445100-2)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1445053-2/TE%20Connectivity%20AMP%20Connectors/view-part/2550164/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1445053-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2-1445053-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1445053-2/TE%20Connectivity%20AMP%20Connectors/view-part/2550164/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD-123FL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/NTS260ESF-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "550mV@2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "D_NTS260ESF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs"; Value = "0.364"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RBR2MM60CTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD-123FL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/NTS260ESF-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "550mV@2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "D_NTS260ESF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs"; Value = "0.364"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RBR2MM60CTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-123FL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/NTS260ESF-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "550mV@2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "D_NTS260ESF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs"; Value = "0.364"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RBR2MM60CTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Added Component: Designator=D_30V(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "4.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part ID"; Value = "D_SMAJ30CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 10pcs"; Value = "0.357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMAJ30CALFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BC-2
+Added Pin To Net: NetName=GND Pin=BC-3
+Added Pin To Net: NetName=GND Pin=BC-4
+Added Pin To Net: NetName=V_Batterie Pin=D1-K
+Added Pin To Net: NetName=V_Batterie Pin=D2-K
+Added Pin To Net: NetName=V_Batterie Pin=D3-K
+Added Pin To Net: NetName=GND Pin=D_30V-K
+Added Pin To Net: NetName=NetBC_1 Pin=BC-1
+Added Pin To Net: NetName=NetBC_1 Pin=D1-A
+Added Pin To Net: NetName=NetBC_1 Pin=D2-A
+Added Pin To Net: NetName=NetBC_1 Pin=D3-A
+Added Pin To Net: NetName=NetBC_1 Pin=D_30V-A
+Added Net: Name=NetBC_1
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component BC 2-1445100-2
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component D1 Schottky 60V/2A
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component D2 Schottky 60V/2A
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component D3 Schottky 60V/2A
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component D_30V SMAJ30CA

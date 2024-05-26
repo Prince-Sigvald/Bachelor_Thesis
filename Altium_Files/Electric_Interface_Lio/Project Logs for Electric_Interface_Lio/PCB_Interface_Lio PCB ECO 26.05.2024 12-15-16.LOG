@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC25_1 Pin=EC1-4
+Removed Pin From Net: NetName=NetC26_2 Pin=EC2-4
+Removed Pin From Net: NetName=NetC27_2 Pin=EC3-4
+Removed Pin From Net: NetName=NetC28_2 Pin=EC4-4
+Added Component: Designator=BC(2-1445100-2)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1445053-2/TE%20Connectivity%20AMP%20Connectors/view-part/2550164/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1445053-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2-1445053-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1445053-2/TE%20Connectivity%20AMP%20Connectors/view-part/2550164/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBC_1 Pin=BC-1
+Added Pin To Net: NetName=GND Pin=BC-2
+Added Pin To Net: NetName=GND Pin=BC-3
+Added Pin To Net: NetName=GND Pin=BC-4
+Add Pin To Net: Unknown Pin: Pin EC1-1
+Add Pin To Net: Unknown Pin: Pin EC2-1
+Add Pin To Net: Unknown Pin: Pin EC3-1
+Add Pin To Net: Unknown Pin: Pin EC4-1
+Added Member To Class: ClassName=Schematic_Interface_Lio_with_IC Member=Component BC 2-1445100-2

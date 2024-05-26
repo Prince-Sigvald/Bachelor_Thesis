@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=3.3V Pin=3.3V-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=5V-1
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=12V-1
+Added Net: Name=12V
+Added Pin To Net: NetName=DI1 Pin=DI1-1
+Added Net: Name=DI1
+Added Pin To Net: NetName=DI2 Pin=DI2-1
+Added Net: Name=DI2
+Added Pin To Net: NetName=DI3 Pin=DI3-1
+Added Net: Name=DI3
+Added Pin To Net: NetName=DI4 Pin=DI4-1
+Added Net: Name=DI4
+Added Pin To Net: NetName=DO-1 Pin=DO-1-1
+Added Net: Name=DO-1
+Added Pin To Net: NetName=DO-2 Pin=DO-2-1
+Added Net: Name=DO-2
+Added Pin To Net: NetName=DO-3 Pin=DO-3-1
+Added Net: Name=DO-3
+Added Pin To Net: NetName=DO-4 Pin=DO-4-1
+Added Net: Name=DO-4
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Net: Name=GND

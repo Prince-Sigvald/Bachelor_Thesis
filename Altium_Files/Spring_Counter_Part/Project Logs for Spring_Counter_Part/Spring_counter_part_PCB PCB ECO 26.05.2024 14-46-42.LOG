@@ -1,0 +1,13 @@
+Added Component: Designator=3.3V(Spring_Contact_Pad_331031321515)
+Added Component: Designator=5V(Spring_Contact_Pad_331031321515)
+Added Component: Designator=12V(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DI1(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DI2(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DI3(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DI4(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-_Device_1(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-_Device_2(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-_Device_3(Spring_Contact_Pad_331031321515)
+Added Component: Designator=DO-_Device_4(Spring_Contact_Pad_331031321515)
+Added Component: Designator=GND(Spring_Contact_Pad_331031321515)
+Added Class: Name=Spring_counter_part

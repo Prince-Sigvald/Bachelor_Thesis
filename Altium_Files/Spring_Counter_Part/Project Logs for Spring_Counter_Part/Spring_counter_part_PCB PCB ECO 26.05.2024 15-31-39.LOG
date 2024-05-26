@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator= NewDesignator=GND1
+Change Component Designator: OldDesignator= NewDesignator=GND2
+Change Component Designator: OldDesignator= NewDesignator=GND3
+Change Component Designator: OldDesignator= NewDesignator=GND4
+Change Component Designator: OldDesignator= NewDesignator=GND5
+Add Pin To Net: Unknown Pin: Pin GND1-1
+Add Pin To Net: Unknown Pin: Pin GND2-1
+Add Pin To Net: Unknown Pin: Pin GND3-1
+Add Pin To Net: Unknown Pin: Pin GND4-1
+Add Pin To Net: Unknown Pin: Pin GND5-1
+Added Member To Class: ClassName=Spring_counter_part Member=Component GND1 Hole_for_Hole_Plate
+Added Member To Class: ClassName=Spring_counter_part Member=Component GND2 Hole_for_Hole_Plate
+Added Member To Class: ClassName=Spring_counter_part Member=Component GND4 Hole_for_Hole_Plate
+Added Member To Class: ClassName=Spring_counter_part Member=Component GND5 Hole_for_Hole_Plate

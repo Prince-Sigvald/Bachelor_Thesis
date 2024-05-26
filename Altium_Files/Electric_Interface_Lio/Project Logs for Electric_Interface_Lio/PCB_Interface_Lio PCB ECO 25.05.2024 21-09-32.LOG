@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC25_1 Pin=EC1-4
+Removed Pin From Net: NetName=NetC26_2 Pin=EC2-4
+Removed Pin From Net: NetName=NetC27_2 Pin=EC3-4
+Removed Pin From Net: NetName=NetC28_2 Pin=EC4-4
+Removed Pin From Net: NetName=NetOutput_Lio_05 Pin=R1-1
+Removed Pin From Net: NetName=NetOutput_Lio_07 Pin=R11-1
+Change Component Description : Designator=Fuse Old Description=1206 SMT PPTC New Description=1206 SMT PPTC | 0.35 Ih | 30V
+Change Component Description : Designator=Supply_P_Rob_3_GPIO Old Description=Pluggable Header 2.5mm 20AWG 160V 6A 4 Position COMBICON PTSM Series New Description=Pluggable Header 2.5mm 20AWG 160V 6A 4 Position COMBICON PTSM Series | Phoenix Contact 1814867
+Add Pin To Net: Unknown Pin: Pin EC1-1
+Add Pin To Net: Unknown Pin: Pin EC2-1
+Add Pin To Net: Unknown Pin: Pin EC3-1
+Add Pin To Net: Unknown Pin: Pin EC4-1
+Added Pin To Net: NetName=NetOutput_Lio_07 Pin=R1-1
+Added Pin To Net: NetName=NetOutput_Lio_05 Pin=R11-1

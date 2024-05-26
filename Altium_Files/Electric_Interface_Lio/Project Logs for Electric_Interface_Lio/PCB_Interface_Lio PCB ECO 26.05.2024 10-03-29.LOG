@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetH2_1 Pin=Input_Lio-01
+Removed Pin From Net: NetName=NetH2_2 Pin=Input_Lio-02
+Removed Pin From Net: NetName=NetH2_3 Pin=Input_Lio-03
+Removed Pin From Net: NetName=NetH2_4 Pin=Input_Lio-04
+Removed Pin From Net: NetName=NetOutput_Lio_05 Pin=R1-1
+Removed Pin From Net: NetName=NetOutput_Lio_06 Pin=R6-1
+Removed Pin From Net: NetName=NetOutput_Lio_07 Pin=R11-1
+Removed Pin From Net: NetName=NetOutput_Lio_02 Pin=R18-2
+Removed Pin From Net: NetName=NetOutput_Lio_03 Pin=R20-1
+Removed Pin From Net: NetName=NetOutput_Lio_04 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=Supply_P_Rob_3_GPIO-01
+Removed Pin From Net: NetName=GND Pin=Supply_P_Rob_3_GPIO-02
+Removed Pin From Net: NetName=NetFuse_2 Pin=Supply_P_Rob_3_GPIO-03
+Removed Pin From Net: NetName=NetFuse_2 Pin=Supply_P_Rob_3_GPIO-04
+Change Component Description : Designator=Fuse Old Description=1206 SMT PPTC New Description=1206 SMT PPTC | 0.35 Ih | 30V
+Change Component Description : Designator=Supply_P_Rob_3_GPIO Old Description=Pluggable Header 2.5mm 20AWG 160V 6A 4 Position COMBICON PTSM Series New Description=Pluggable Header 2.5mm 20AWG 160V 6A 4 Position COMBICON PTSM Series | Phoenix Contact 1814867
+Add Pin To Net: Unknown Pin: Pin EC1-1
+Add Pin To Net: Unknown Pin: Pin EC2-1
+Add Pin To Net: Unknown Pin: Pin EC3-1
+Add Pin To Net: Unknown Pin: Pin EC4-1
+Added Pin To Net: NetName=NetH2_4 Pin=Input_Lio-05
+Added Pin To Net: NetName=NetH2_3 Pin=Input_Lio-06
+Added Pin To Net: NetName=NetH2_2 Pin=Input_Lio-07
+Added Pin To Net: NetName=NetH2_1 Pin=Input_Lio-08
+Added Pin To Net: NetName=NetOutput_Lio_04 Pin=R1-1
+Added Pin To Net: NetName=NetOutput_Lio_03 Pin=R6-1
+Added Pin To Net: NetName=NetOutput_Lio_02 Pin=R11-1
+Added Pin To Net: NetName=NetOutput_Lio_07 Pin=R18-2
+Added Pin To Net: NetName=NetOutput_Lio_06 Pin=R20-1
+Added Pin To Net: NetName=NetOutput_Lio_05 Pin=R22-2
+Added Pin To Net: NetName=NetFuse_2 Pin=Supply_P_Rob_3_GPIO-01
+Added Pin To Net: NetName=NetFuse_2 Pin=Supply_P_Rob_3_GPIO-02
+Added Pin To Net: NetName=GND Pin=Supply_P_Rob_3_GPIO-03
+Added Pin To Net: NetName=GND Pin=Supply_P_Rob_3_GPIO-04
+Added Pin To Net: NetName=NetOutput_Lio_08 Pin=Output_Lio-08
+Added Pin To Net: NetName=NetOutput_Lio_08 Pin=R16-1
+Added Net: Name=NetOutput_Lio_08
