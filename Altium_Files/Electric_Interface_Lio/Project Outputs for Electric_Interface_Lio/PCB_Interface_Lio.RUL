@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\Yan\OneDrive\Dokumente\Dokumente\Bachelorarbeit_Yan_Gridling_F&P\Bachelor_Thesis_Git\Altium_Files\Electric_Interface_Lio\PCB_Interface_Lio.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Vias|Scope=Board|Minimum=-3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_fid|Scope=Board|Minimum=78.74
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_IC|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=20.00

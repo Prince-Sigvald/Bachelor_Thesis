@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Yan\OneDrive\Dokumente\Dokumente\Bachelorarbeit_Yan_Gridling_F&P\Bachelor_Thesis_Git\Altium_Files\Electric_Interface_Lio\PCB_Interface_Lio.PcbDoc
-Date     : 29.05.2024
-Time     : 12:15:09
+PCB File : C:\Users\Admin\OneDrive\Dokumente\Dokumente\Bachelorarbeit_Yan_Gridling_F&P\Bachelor_Thesis_Git\Altium_Files\Electric_Interface_Lio\PCB_Interface_Lio.PcbDoc
+Date     : 28.05.2024
+Time     : 11:47:35
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (IsPad AND HasFootprint('LM3150') OR IsPad AND HasFootprint('TSSOP14') OR IsPad AND HasFootprint('LQFP48') OR IsPad AND HasFootprint('SOT363') OR IsPad AND HasFootprint('SOT563') OR IsPad AND  HasFootprint('LQFP64') OR IsPad AND  HasFootprint('MSOP-8') OR IsPad AND HasFootprint('MEC6-130-02-L-D-RA1')),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

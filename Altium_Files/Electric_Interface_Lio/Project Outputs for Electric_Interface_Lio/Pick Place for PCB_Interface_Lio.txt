@@ -1,0 +1,99 @@
+Altium Designer Pick and Place Locations
+C:\Users\Yan\OneDrive\Dokumente\Dokumente\Bachelorarbeit_Yan_Gridling_F&P\Bachelor_Thesis_Git\Altium_Files\Electric_Interface_Lio\Project Outputs for Electric_Interface_Lio\Pick Place for PCB_Interface_Lio.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13.06.24
+Time:       10:15
+Revision:   543b0b3996ad4fdbd49d1777269063583926231a
+Variant:    No variations
+Units used: mil
+
+Designator          Comment                Layer       Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                                     
+BC                  2-1445100-2            BottomLayer 2-1445100-2               290.098       835.433       90       "Micro MATE-N-LOK 2 Position Surface Mount Single Row Straight 3 mm Pin Header" 
+R27                 "R 1M 0805"            TopLayer    0805                      2835.433      322.835       90       ""                                                                              
+R26                 "R 1M 0805"            TopLayer    0805                      95.276        317.323       90       ""                                                                              
+R25                 "R 1M 0805"            TopLayer    0805                      2861.417      1959.055      270      ""                                                                              
+R24                 "R 1M 0805"            TopLayer    0805                      92.913        1931.496      270      ""                                                                              
+EC4                 Screw_Earth_Connection TopLayer    Screw_Earth_Connector_Pad 2795.276      157.480       0        ""                                                                              
+EC3                 Screw_Earth_Connection TopLayer    Screw_Earth_Connector_Pad 159.055       157.480       0        ""                                                                              
+EC2                 Screw_Earth_Connection TopLayer    Screw_Earth_Connector_Pad 2795.276      2128.347      0        ""                                                                              
+EC1                 Screw_Earth_Connection TopLayer    Screw_Earth_Connector_Pad 159.055       2128.347      0        ""                                                                              
+C28                 "C 1uF 0603"           TopLayer    0603                      2747.244      310.236       270      ""                                                                              
+C27                 "C 1uF 0603"           TopLayer    0603                      192.913       310.236       270      ""                                                                              
+C26                 "C 1uF 0603"           TopLayer    0603                      2779.528      1970.866      90       ""                                                                              
+C25                 "C 1uF 0603"           TopLayer    0603                      181.890       1940.945      270      ""                                                                              
+D_30V               SMAJ30CA               TopLayer    SMA                       232.284       1037.008      270      "Cera Diode 30 Volt Overvoltage protection."                                    
+D3                  "Schottky 60V/2A"      TopLayer    SOD-123FL                 456.693       1164.567      180      ""                                                                              
+D2                  "Schottky 60V/2A"      TopLayer    SOD-123FL                 453.740       1072.441      180      ""                                                                              
+D1                  "Schottky 60V/2A"      TopLayer    SOD-123FL                 455.118       979.528       180      ""                                                                              
+SC_4                009155003541006        TopLayer    009155003541006           2488.189      2170.866      0        Connector                                                                       
+SC_3                009155003541006        TopLayer    009155003541006           1996.588      2170.866      0        Connector                                                                       
+SC_2                009155003541006        TopLayer    009155003541006           1504.987      2170.866      0        Connector                                                                       
+SC_1                009155003541006        TopLayer    009155003541006           1013.386      2170.866      0        Connector                                                                       
+Supply_P_Rob_3_GPIO 1814867                BottomLayer PHOENIX_1814867           594.095       1984.252      0        "Pluggable Header 2.5mm 20AWG 160V 6A 4 Position COMBICON PTSM Series"          
+Output_Lio          1814906                BottomLayer PHOENIX_1814906           296.850       1609.055      90       ""                                                                              
+Input_Lio           1814906                BottomLayer PHOENIX_1814906           2656.693      1480.709      270      "Electric Interface Lio
+Designer: Gridling Yan
+Date: 28.05.2024"              
+V_R_12V_out         TPS62933ODRLR          TopLayer    SOT5X3-8_DRL_TEX          2409.567      448.307       180      ""                                                                              
+V_R_5V_out          TPS62933ODRLR          TopLayer    SOT5X3-8_DRL_TEX          329.764       543.465       90       "Buck Converter"                                                                
+V_R_3.3V_out        TPS62933ODRLR          TopLayer    SOT5X3-8_DRL_TEX          1419.764      538.465       90       ""                                                                              
+T4                  TSM2309CXRFG           TopLayer    TRANS_TSM2309CXRFG        852.638       1724.409      90       ""                                                                              
+T3                  TSM2309CXRFG           TopLayer    TRANS_TSM2309CXRFG        852.638       1385.000      90       ""                                                                              
+T2                  TSM2309CXRFG           TopLayer    TRANS_TSM2309CXRFG        1280.039      1724.409      90       ""                                                                              
+T1                  TSM2309CXRFG           TopLayer    TRANS_TSM2309CXRFG        1280.039      1385.000      90       ""                                                                              
+Fuse                0ZCJ0035AF2E           TopLayer    RESC3216X125N             525.197       1853.543      180      "1206 SMT PPTC"                                                                 
+R23                 "R 330K 0805"          TopLayer    0805                      928.346       1575.000      0        ""                                                                              
+R22                 "R 330K 0805"          TopLayer    0805                      754.331       1575.000      180      ""                                                                              
+R21                 "R 330K 0805"          TopLayer    0805                      928.346       1242.520      180      ""                                                                              
+R20                 "R 330K 0805"          TopLayer    0805                      754.331       1242.520      0        ""                                                                              
+R19                 "R 330K 0805"          TopLayer    0805                      1355.118      1575.000      0        ""                                                                              
+R18                 "R 330K 0805"          TopLayer    0805                      1181.102      1575.000      180      ""                                                                              
+R17                 "R 330K 0805"          TopLayer    0805                      1362.992      1242.520      180      ""                                                                              
+R16                 "R 330K 0805"          TopLayer    0805                      1181.102      1242.520      0        ""                                                                              
+R15                 "R 1K5 0805"           TopLayer    0805                      2364.567      260.276       270      ""                                                                              
+R14                 "R 5K6 0805"           TopLayer    0805                      2269.567      260.276       90       ""                                                                              
+R13                 "R 100K 0805"          TopLayer    0805                      2174.567      260.276       270      ""                                                                              
+R12                 "R 56K 0805"           TopLayer    0805                      2533.937      262.205       270      ""                                                                              
+R11                 "R 330K 0805"          TopLayer    0805                      2628.937      262.205       90       ""                                                                              
+R10                 "R 1K5 0805"           TopLayer    0805                      1279.764      583.465       180      ""                                                                              
+R9                  "R 5K6 0805"           TopLayer    0805                      1279.764      678.465       0        ""                                                                              
+R8                  "R 22K 0805"           TopLayer    0805                      1279.764      773.465       180      ""                                                                              
+R7                  "R 56K 0805"           TopLayer    0805                      1242.520      401.575       180      ""                                                                              
+R6                  "R 330K 0805"          TopLayer    0805                      1242.835      318.465       0        ""                                                                              
+R5                  "R 2K2 0805"           TopLayer    0805                      166.929       640.945       180      ""                                                                              
+R4                  "R 6K8 0805"           TopLayer    0805                      167.716       731.890       0        ""                                                                              
+R3                  "R 47K 0805"           TopLayer    0805                      181.811       826.772       180      ""                                                                              
+R2                  "R 56K 0805"           TopLayer    0805                      181.102       543.307       180      ""                                                                              
+R1                  "R 330K 0805"          TopLayer    0805                      181.102       460.630       0        ""                                                                              
+L3                  "L 6.8uH 13A"          TopLayer    SRP1040VA-6R8M            2372.441      881.102       90       ""                                                                              
+L2                  "L 6.8uH 13A"          TopLayer    SRP1040VA-6R8M            1855.906      459.843       0        ""                                                                              
+L1                  "L 6.8uH 13A"          TopLayer    SRP1040VA-6R8M            784.764       468.465       0        ""                                                                              
+H2                  8Pin_Male              TopLayer    Header1x8_254             1849.134      1583.189      180      ""                                                                              
+H1                  8Pin_Male              TopLayer    Header1x8_254             1849.134      1448.189      180      ""                                                                              
+C24                 "C 47uF ALUM"          TopLayer    HA1C470WR                 2768.504      893.701       180      ""                                                                              
+C23                 "C 100nF 0603"         TopLayer    0603                      2614.173      951.968       270      ""                                                                              
+C22                 "C 100nF 0603"         TopLayer    0603                      2308.661      491.807       90       ""                                                                              
+C21                 "C 10nF 0603"          TopLayer    0603                      2254.567      448.307       90       ""                                                                              
+C20                 "C 10nF 0603"          TopLayer    0603                      2184.567      448.307       90       ""                                                                              
+C19                 "C 100nF 0603"         TopLayer    0603                      2527.559      517.323       90       ""                                                                              
+C18                 "C 10uF 1210"          TopLayer    C_1210_A                  2626.693      500.276       90       ""                                                                              
+C17                 "C 10uF 1210"          TopLayer    C_1210_A                  2766.693      500.276       90       ""                                                                              
+C16                 "C 47uF ALUM"          TopLayer    HA1C470WR                 1940.158      783.465       90       ""                                                                              
+C15                 "C 100nF 0603"         TopLayer    0603                      1994.488      943.307       180      ""                                                                              
+C14                 "C 100nF 0603"         TopLayer    0603                      1471.653      634.646       0        ""                                                                              
+C13                 "C 10nF 0603"          TopLayer    0603                      1448.819      700.000       0        ""                                                                              
+C12                 "C 10nF 0603"          TopLayer    0603                      1446.457      760.630       0        ""                                                                              
+C11                 "C 100nF 0603"         TopLayer    0603                      1492.126      424.409       0        ""                                                                              
+C10                 "C 10uF 1210"          TopLayer    C_1210_A                  1461.417      318.898       0        ""                                                                              
+C9                  "C 10uF 1210"          TopLayer    C_1210_A                  1459.842      170.079       0        ""                                                                              
+C8                  "C 47uF ALUM"          TopLayer    HA1C470WR                 869.764       798.465       90       ""                                                                              
+C7                  "C 100nF 0603"         TopLayer    0603                      906.299       944.882       180      ""                                                                              
+C6                  "C 100nF 0603"         TopLayer    0603                      373.228       648.819       0        ""                                                                              
+C5                  "C 10nF 0603"          TopLayer    0603                      334.764       703.465       0        ""                                                                              
+C4                  "C 10nF 0603"          TopLayer    0603                      334.764       758.465       0        ""                                                                              
+C3                  "C 100nF 0603"         TopLayer    0603                      385.827       413.386       180      ""                                                                              
+C2                  "C 10uF 1210"          TopLayer    C_1210_A                  402.362       301.575       180      ""                                                                              
+C1                  "C 10uF 1210"          TopLayer    C_1210_A                  401.575       166.142       180      ""                                                                              

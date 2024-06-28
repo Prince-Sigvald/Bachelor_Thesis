@@ -1,0 +1,318 @@
+*************************************************************
+FileName = PCB_Interface_Lio.GBR
+AutoAperture = True
+*************************************************************
+Generating : Layer 2
+      File : PCB_Interface_Lio.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top
+      File : PCB_Interface_Lio.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_Interface_Lio.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_Interface_Lio.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Interface_Lio.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D13
+    D15
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_Interface_Lio.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_Interface_Lio.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_Interface_Lio.GPB
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_Interface_Lio.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : PCB_Interface_Lio.G2
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D58
+    D62
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer 1
+      File : PCB_Interface_Lio.GBL
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D58
+    D59
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_Interface_Lio.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_Interface_Lio.GD1
+
+    Adding Drill Pair : Top-Bottom Layer 1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_Interface_Lio.GG1
+
+    Adding Drill Pair : Top-Bottom Layer 1
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D74
+*************************************************************
+
