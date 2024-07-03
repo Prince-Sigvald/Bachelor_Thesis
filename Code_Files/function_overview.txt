@@ -1,7 +1,9 @@
 docking_test_yan     alle Funktionen für Bewegung von Lio und Transformationen
 get_driving_commands_for_docking    gibt die Bewegung zurück, die Lio ansteuern soll
-Class_Compute_Navigation_Docking    Klasse welche Positionsdaten für Docking Prozess berechnet
+Class_Compute_Navigation_Docking    Klasse welche Positionsdaten für Docking Prozess berechnet  important
 dock_to_cart     moves Lio to Docking position
-dock_to_cart_v2  moves Lio to Docking position without parallel script
-check_pulling_force  parallel script to check if pulling force is to high
-test_movement_interruption_if_laundry_cart_jams 
+dock_to_cart_v2  moves Lio to Docking position without parallel script      important
+check_pulling_force  parallel script to check if pulling force is to high    important
+test_movement_interruption_if_laundry_cart_jams    important
+functions_execute_docking_laundry_cart    important
+release_cart

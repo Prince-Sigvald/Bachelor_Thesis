@@ -30,7 +30,12 @@ class Compute_Navigation_Docking:
     def compute_pose_arm_to_aruco_code(self):
         #Get transformation from aruco code to gripper
         aruco_transform_arm=service_robot.get_aruco_transform(self.camera_name, self.Aruco_Size, self.Aruco_ID, timeout=1.0)
-        
+        #Errror Handling: if no aruco code was detected the function interrupts
+        if (aruco_transform_arm == None):
+            print("No Aruco Code found")
+            voice.say("Ich habe momentan keine Sicht auf einen Aruco Marker")
+            return 0
+            
         #Transform into Working frame hence Base Frame
         pose_aruco_base=service_robot.cam_object_to_working_frame(aruco_transform_arm, self.camera_name, self.robot_arm_name, working_frame='base', O_r_Oo=None)
         
@@ -42,6 +47,7 @@ class Compute_Navigation_Docking:
         #Get rotational of aruco code to robot
         euler=pose_aruco_base._Transform__orientation.to_euler()
         self.pose_arm_aruco_euler_y=euler[1]
+        return 1
 
 
     def compute_navigation_values(self):
