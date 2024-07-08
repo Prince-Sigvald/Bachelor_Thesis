@@ -53,11 +53,14 @@ def final_docking(navigation_computer):
     navigation_computer.compute_navigation_values()
     while (True):
         mobile_platform.move_platform_angular(navigation_computer.turn_angle, speed=0.07, blocking=True)
+        navigation_computer.compute_pose_arm_to_aruco_code()
+        navigation_computer.compute_navigation_values()
+        if (np.abs(navigation_computer.turn_angle)> 2):#compensate oversteering
+            mobile_platform.move_platform_angular(navigation_computer.turn_angle, speed=0.07, blocking=True)
         mobile_platform.move_platform_linear(-navigation_computer.drive_distance_linear, speed=0.07, blocking=True)
-        wait(1)
         #Drive forward and see if cart moved
         mobile_platform.move_platform_linear(0.1, speed=0.07, blocking=True)
-        wait(0.5)
+        wait(1)
         navigation_computer.compute_pose_arm_to_aruco_code()
         navigation_computer.compute_navigation_values()
         if(navigation_computer.drive_distance_linear < 0.05):

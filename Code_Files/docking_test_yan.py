@@ -2,6 +2,7 @@
 # If an aruco Code was found it will move the robot to the right position until
 # a push button is pressed
 import numpy as np
+from Class_Compute_Navigation_Docking import Compute_Navigation_Docking
 #Move Arm to position to find aruco code   (0, 356, 828, [180,-17,-94])
 move_tool(0, 334, 770, [180,-25.6,-94])
 
@@ -34,6 +35,20 @@ print("angle to aruco code")
 print(pos_euler_xyz[1])
 print("x and y to aruco code")
 print(pose_aruco_base)
+
+
+#Variables
+Aruco_ID=10
+Aruco_Size=5
+
+#Creating navigation object
+navigation_computer = Compute_Navigation_Docking(Aruco_ID, Aruco_Size)
+navigation_computer.compute_pose_arm_to_aruco_code()
+navigation_computer.compute_navigation_values()
+print("angle to turn")
+print(navigation_computer.turn_angle)
+print("distance linear:")
+print(navigation_computer.drive_distance_linear)
 
 
 """
