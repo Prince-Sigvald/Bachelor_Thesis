@@ -25,8 +25,6 @@ def driving_iteration(navigation_computer, space_lio_aruco):
         if (np.abs(navigation_computer.turn_angle)>1): #only turn robot if angle exceeds certain value
             mobile_platform.move_platform_angular(navigation_computer.turn_angle, speed=0.07, blocking=True)
             wait(0.2)
-            print("turn angle:")
-            print(navigation_computer.turn_angle)
         mobile_platform.move_platform_linear(-navigation_computer.drive_distance_linear+space_lio_aruco, speed=0.07, blocking=True)
         wait(0.2)
     else:

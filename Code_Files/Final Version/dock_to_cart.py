@@ -29,8 +29,9 @@ if(navigation_computer.compute_pose_arm_to_aruco_code()!=0):
     navigation_computer.compute_navigation_values()
     #if the aruco code is very twisted away from Lio, or Lio is to close for docking Lio will first 
     #align himself new to the marker
-    if np.abs(navigation_computer.turn_angle + navigation_computer.pose_arm_aruco_euler_y) > steepest_docking_angle or navigation_computer.drive_distance_linear < 0.05:
+    if np.abs(-navigation_computer.turn_angle + navigation_computer.pose_arm_aruco_euler_y) > steepest_docking_angle or navigation_computer.drive_distance_linear < 0.05:
         new_alignment(navigation_computer)
+
     #else Lio tries to drive to the aruco marker up to 30 cm close
     else:
         driving_iteration(navigation_computer, 0.4)

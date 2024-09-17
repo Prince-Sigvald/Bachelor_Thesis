@@ -61,7 +61,7 @@ class Compute_Navigation_Docking:
             pose_aruco_base._Transform__translation.y,
             pose_aruco_base._Transform__translation.z]
         
-        #Get rotational of aruco code to robot
+        #Get rotation of aruco code to robot
         euler=pose_aruco_base._Transform__orientation.to_euler()
         self.pose_arm_aruco_euler_y=euler[1]
         return 1
